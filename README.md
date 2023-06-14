@@ -44,3 +44,6 @@ Evaluation parameters with 1st being the highest.
 2. Coding standards , readability, originality  (15 points)
 3. If DB is used in place of CSV/json etc (additional  5 points)
 4. Developing UI is bonus(5 points)
+
+
+Please check the assignment and let me know
